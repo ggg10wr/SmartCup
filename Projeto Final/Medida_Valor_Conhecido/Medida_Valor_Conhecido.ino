@@ -282,7 +282,8 @@ void loop() {
       break;
 
     case FINAL:
-      if (input == "0") {
+    float medida2 = escala.get_units(20);
+      if (medida2 <= medida - 10) {
         // Apaga LEDs com entrada '0' (copo saiu da balança)
         Serial.println("Clearing LED strip");
         clearStrip();
