@@ -31,10 +31,19 @@ A interface com o usuário foi construída utilizando a biblioteca TkInter, e co
 3. Edição: Semelhante à janela de cadastro, mas destinada a usuários já cadastrados. Permite a atualização dos dados existentes.
 4. Ranking: Exibe os três usuários que consumiram mais água no dia.
 
+**Tela de Edição**
+
+![image](https://github.com/user-attachments/assets/a1ef06fc-d7d1-4e31-aef7-e15e7289aeb2)
+
+
 
 ### ALERTAS AOS USUÁRIOS
 
 A cada 2 horas, o sistema envia uma notificação pelo Telegram para cada usuário, lembrando-os de beber água e informando seu progresso em relação à meta diária. No final do dia, o widget é atualizado com base no atingimento da meta de consumo.
+
+**Widget Macrobot**
+
+![image](https://github.com/user-attachments/assets/32e84e21-4f5b-477a-8916-9d9092fc1bbc)
 
 
 ### IDENTIFICAÇÃO E MEDIÇÃO
