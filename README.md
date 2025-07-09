@@ -48,5 +48,6 @@ ESQUEMÁTICO DO CIRCUITO
 
 O esquemático do circuito foi desenvolvido utilizando o software Fritzing.
 
-![image](https://github.com/user-attachments/assets/aba40636-2f83-4c33-9a99-6abed535afd3)
+![image](https://github.com/user-attachments/assets/23736810-9b34-4645-b6cb-b6d4a4eb3174)
+
 
