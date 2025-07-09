@@ -8,7 +8,7 @@
 #define RST_PIN 49
 #define pinDT 3
 #define pinSCK 2
-#define fator_calibracao 460.42
+#define fator_calibracao 460.94
 # define NUM_LEDS  24   // Número total de LEDs na fita
 # define DATA_PIN  4    // Pino de dados conectado à fita
 # define MAX_NOMES 7    // Número máximo de nomes/cores
