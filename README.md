@@ -40,3 +40,8 @@ No fianal do dia o widget é atualizado em função do atingimento da meta ou n�
 IDENTIFICAÇÃO E MEDIÇÃO
 
 Para identificar cada um dos 7 usuários, seus copos possuem uma tag RFID no fundo. Quando posicionado na balança do dispositivo, a tag é lida fazendo com que os LEDs iluminem na cor definida para o usuário 
+
+ESQUEMATICO do circuito
+
+![image](https://github.com/user-attachments/assets/aba40636-2f83-4c33-9a99-6abed535afd3)
+
